@@ -34,8 +34,6 @@ export default function MessageScreen({ onNext }) {
                         Keep being the amazing person you are, spreading joy wherever you go. Wishing you endless happiness,
                         success, and all the sweet things life has to offer. 💗
                         Keep being the amazing person you are, spreading joy wherever you go. Wishing you endless happiness,
-
-                        From - Yours Adii....
                     </p>
                 </motion.div>
             </div>
