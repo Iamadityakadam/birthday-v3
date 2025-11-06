@@ -21,7 +21,7 @@ export default function IntroScreen({ onNext }) {
                         A Cutiepie Shrilaxmi {"<3"} ] was born today, 19 years ago! 
                     </h1>
                     <p className="mt-4 text-xl text-pink-200">
-  Yes, it’s YOU! A little surprise awaits...{"<3"} </p>
+  Yes, A little surprise awaits...{"<3"} </p>
                 </div>
 
                 <div className="mt-8">
