@@ -18,10 +18,10 @@ export default function IntroScreen({ onNext }) {
                         style={{
                             filter: "drop-shadow(0 0 20px rgba(255,105,180,0.4))",
                         }}>
-                        A Cutiepie [ Shrii {"<3"} ] was born today, 19 years ago! 
+                        A Cutiepie Shrilaxmi {"<3"} ] was born today, 19 years ago! 
                     </h1>
                     <p className="mt-4 text-xl text-pink-200">
-  Yes, it’s YOU! A little surprise awaits... From Adi {"<3"} </p>
+  Yes, it’s YOU! A little surprise awaits...{"<3"} </p>
                 </div>
 
                 <div className="mt-8">
